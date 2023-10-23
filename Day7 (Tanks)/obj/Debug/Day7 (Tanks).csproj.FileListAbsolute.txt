@@ -1,0 +1,11 @@
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe.config
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\bin\Debug\Day7 (Tanks).pdb
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\bin\Debug\dotNET-module-7-HW.dll
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\bin\Debug\dotNET-module-7-HW.pdb
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.AssemblyReference.cache
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CopyComplete
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).exe
+D:\Projects\c#\dotNET-module-7-HW\Day7 (Tanks)\obj\Debug\Day7 (Tanks).pdb

@@ -1,0 +1,6 @@
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\bin\Debug\dotNET-module-7-HW.dll
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\bin\Debug\dotNET-module-7-HW.pdb
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\obj\Debug\dotNET-module-7-HW.dll
+D:\Projects\c#\dotNET-module-7-HW\dotNET-module-7-HW\obj\Debug\dotNET-module-7-HW.pdb
